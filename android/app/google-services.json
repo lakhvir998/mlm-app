@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "600868383169",
+    "firebase_url": "https://eendeals-b746d.firebaseio.com",
+    "project_id": "eendeals-b746d",
+    "storage_bucket": "eendeals-b746d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600868383169:android:78ad1a1e79dc1ab3",
+        "android_client_info": {
+          "package_name": "net.eendeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600868383169-5tunv2llognqfptfavt7o3qe409qahui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcHXel3EpEYYMl9pNSWEhqeO9yWP6WKiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

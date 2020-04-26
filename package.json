@@ -1,0 +1,36 @@
+{
+  "name": "eendeals",
+  "version": "1.18.0",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "lottie-react-native": "^2.3.2",
+    "react": "16.2.0",
+    "react-native": "0.52.1",
+    "react-native-admob": "git+https://github.com/jagjotsinghparry/react-native-admob",
+    "react-native-circular-progress": "^0.1.2",
+    "react-native-facebook-account-kit": "^0.9.0",
+    "react-native-firebase": "^3.2.4",
+    "react-native-gaid": "^1.0.0",
+    "react-native-image-picker": "^0.26.7",
+    "react-native-keyboard-aware-scroll-view": "^0.4.4",
+    "react-native-material-ui": "^1.18.0",
+    "react-native-pull-refresh": "^1.0.0",
+    "react-native-radio-buttons": "^1.0.0",
+    "react-native-textinput-effects": "^0.4.2",
+    "react-native-vector-icons": "^4.5.0",
+    "react-navigation": "^1.0.0-beta.21"
+  },
+  "devDependencies": {
+    "babel-jest": "21.2.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "21.2.1",
+    "react-test-renderer": "16.0.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
